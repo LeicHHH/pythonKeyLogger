@@ -1,5 +1,5 @@
 # pythonKeyLogger
-Simple implementarion for remote keyloggging in python :)
+Simple implementarion for remote keylogging in python :)
 
 ## Getting Started
 
